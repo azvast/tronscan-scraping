@@ -1,0 +1,17 @@
+{
+  "name": "tronscan-scraping-for-wallets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "axios-parallel": "^1.1.2",
+    "dotenv": "^10.0.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}
